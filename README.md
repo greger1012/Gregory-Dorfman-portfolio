@@ -27,7 +27,7 @@ https://greger1012.github.io/Gregory-Dorfman-portfolio/
 
 ## 🧪 How to Run
 
-To run locally:
+To run locally (ideal method):
 
 1. Download or clone the repository.
 2. Open the folder in Visual Studio Code.
