@@ -1,4 +1,4 @@
-# Greg Dorfman's Personal Portfolio
+# Gregory Dorfman's Personal Portfolio
 
 This is my personal portfolio website built using HTML5, CSS3, JavaScript, and Tailwind CSS. It showcases my background, skills, and selected projects.
 
