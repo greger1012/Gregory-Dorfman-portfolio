@@ -22,6 +22,8 @@ https://greger1012.github.io/Gregory-Dorfman-portfolio/
 - `project-brainbeats.html`, `project-battleship.html` – Detailed project pages
 - `skills.html` – Technical and soft skills
 - `contact.html` – Contact info with LinkedIn, phone, and email
+- `style.css` – Custom CSS3 styling for animations
+- `script.js` – JavaScript for dynamic greeting
 
 ## 🧪 How to Run
 
