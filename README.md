@@ -4,8 +4,7 @@ This is my personal portfolio website built using HTML5, CSS3, JavaScript, and T
 
 ## 🖥️ Live Site
 
-[https://yourusername.github.io/greg-portfolio/](https://yourusername.github.io/greg-portfolio/)  
-<!-- Replace with your actual link once GitHub Pages is live -->
+https://greger1012.github.io/Gregory-Dorfman-portfolio/
 
 ## 🚀 Features
 
