@@ -1,0 +1,12 @@
+
+/* style.css */
+.highlight {
+  animation: pulse 2s infinite;
+  color: #2563eb; /* Tailwind blue-600 */
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.6; }
+  100% { opacity: 1; }
+}
