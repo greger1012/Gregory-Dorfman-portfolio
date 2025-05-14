@@ -1,29 +1,45 @@
 # Greg Dorfman's Personal Portfolio
 
-This is a fully responsive personal portfolio website built with HTML5, Tailwind CSS, and a touch of JavaScript. It showcases my background, projects, skills, and contact information.
+This is my personal portfolio website built using HTML5, CSS3, JavaScript, and Tailwind CSS. It showcases my background, skills, and selected projects.
 
-## Getting Started
+## 🖥️ Live Site
+
+[https://yourusername.github.io/greg-portfolio/](https://yourusername.github.io/greg-portfolio/)  
+<!-- Replace with your actual link once GitHub Pages is live -->
+
+## 🚀 Features
+
+- **Responsive design** that adapts to mobile and desktop
+- Custom **CSS3 animation** for visual flair
+- **JavaScript greeting** based on time of day
+- Downloadable resume
+- Detailed **Projects** section with GitHub links
+
+## 📂 Pages Included
+
+- `index.html` – Home page
+- `about.html` – Bio and resume
+- `projects.html` – Project overview
+- `project-brainbeats.html`, `project-battleship.html` – Detailed project pages
+- `skills.html` – Technical and soft skills
+- `contact.html` – Contact info with LinkedIn, phone, and email
+
+## 🧪 How to Run
+
+To run locally:
 
 1. Download or clone the repository.
 2. Open the folder in Visual Studio Code.
-3. Open `index.html` with the Live Server extension to preview the site.
+3. Open `index.html` with the Live Server extension or double-click to launch in a browser.
 
-## Pages
+## 👨‍💻 Technologies Used
 
-- `index.html` – Homepage
-- `about.html` – Education and background
-- `projects.html` – Project gallery (to be added)
-- `skills.html` – Technical and soft skills
-- `contact.html` – Contact form and links
-
-## Deployment
-
-To deploy using GitHub Pages:
-1. Push this folder to a GitHub repository.
-2. Go to Settings > Pages.
-3. Choose branch: `main`, folder: `/root` (or `/docs` if moved).
-4. Click Save and share the link!
+- HTML5
+- CSS3
+- JavaScript
+- Tailwind CSS
 
 ---
 
 &copy; 2025 Greg Dorfman
+
