@@ -1,46 +1,48 @@
-# Gregory Dorfman's Personal Portfolio
+# Gregory Dorfman — Portfolio
 
-This is my personal portfolio website built using HTML5, CSS3, JavaScript, and Tailwind CSS. It showcases my background, skills, and selected projects.
+Personal portfolio site for **Gregory Dorfman**: background, skills, and selected projects. Built with HTML, CSS, JavaScript, and Tailwind CSS.
 
-## 🖥️ Live Site
+## Live site
 
-https://greger1012.github.io/Gregory-Dorfman-portfolio/
+**[https://greger1012.github.io/Gregory-Dorfman-portfolio/](https://greger1012.github.io/Gregory-Dorfman-portfolio/)**
 
-## 🚀 Features
+## What’s included
 
-- **Responsive design** that adapts to mobile and desktop
-- Custom **CSS3 animation** for visual flair
-- **JavaScript greeting** based on time of day
+- Responsive layout for mobile and desktop
+- CSS animations and a time-of-day greeting
 - Downloadable resume
-- Detailed **Projects** section with GitHub links
+- Project pages with links to GitHub work
+- Contact section (LinkedIn, email, phone)
 
-## 📂 Pages Included
+## Pages
 
-- `index.html` – Home page
-- `about.html` – Bio and resume
-- `projects.html` – Project overview
-- `project-brainbeats.html`, `project-battleship.html` – Detailed project pages
-- `skills.html` – Technical and soft skills
-- `contact.html` – Contact info with LinkedIn, phone, and email
-- `style.css` – Custom CSS3 styling for animations
-- `script.js` – JavaScript for dynamic greeting
+| File | Purpose |
+| --- | --- |
+| `index.html` | Home |
+| `about.html` | Bio and resume |
+| `projects.html` | Project overview |
+| `project-brainbeats.html` / `project-battleship.html` | Project deep-dives |
+| `skills.html` | Technical and soft skills |
+| `contact.html` | Contact links |
+| `style.css` / `script.js` | Styling and greeting logic |
 
-## 🧪 How to Run
+## Run locally
 
-To run locally:
+```bash
+git clone https://github.com/greger1012/Gregory-Dorfman-portfolio.git
+cd Gregory-Dorfman-portfolio
+python -m http.server 8080
+```
 
-1. Download or clone the repository.
-2. Open the folder in Visual Studio Code.
-3. Open `index.html` with the Live Server extension or double-click to launch in a browser.
+Open [http://localhost:8080](http://localhost:8080), or open `index.html` directly in a browser / Live Server.
 
-## 👨‍💻 Technologies Used
+## Tech
 
 - HTML5
 - CSS3
 - JavaScript
 - Tailwind CSS
 
----
+## Author
 
-&copy; 2025 Greg Dorfman
-
+**Gregory Dorfman** ([greger1012](https://github.com/greger1012))
